@@ -83,13 +83,13 @@ export default function Component() {
               <div className="flex items-center justify-center">
                 <div className="relative">
                   <div className="absolute inset-0 bg-gradient-to-r from-purple-400 to-amber-400 rounded-3xl blur-3xl opacity-20"></div>
-                  <Image
+                  {/* <Image
                     src="/placeholder.svg?height=600&width=400"
                     width={400}
                     height={600}
                     alt="GinRats App Screenshot"
                     className="relative rounded-3xl shadow-2xl"
-                  />
+                  /> */}
                 </div>
               </div>
             </div>
@@ -307,13 +307,13 @@ export default function Component() {
                 </div>
               </div>
               <div className="flex items-center justify-center">
-                <Image
+                {/* <Image
                   src="/placeholder.svg?height=400&width=400"
                   width={400}
                   height={400}
                   alt="Community Features"
                   className="rounded-2xl shadow-xl"
-                />
+                /> */}
               </div>
             </div>
           </div>
