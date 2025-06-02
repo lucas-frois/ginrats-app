@@ -125,7 +125,7 @@ export default function Component() {
                 <div className="relative">
                   <div className="absolute inset-0 bg-gradient-to-r from-purple-400 to-amber-400 rounded-3xl blur-3xl opacity-20"></div>
                   <Image
-                    src="/ginrats-logo-nobg.svg?height=600&width=600"
+                    src="/ginrats-logo-nobg.svg"
                     width={600}
                     height={600}
                     alt="GinRats App"
@@ -383,7 +383,7 @@ export default function Component() {
               </div>
               <div className="flex items-center justify-center">
                 <Image
-                  src="/social-gr.png?height=500&width=500"
+                  src="/social-gr.png"
                   width={500}
                   height={500}
                   alt="Community Features"
